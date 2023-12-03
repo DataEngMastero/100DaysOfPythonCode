@@ -4,7 +4,7 @@ This is the repositories of projects made during my journey of 100 Days of Pytho
 
 ### What I loved ?
 
-## Beginners Section
+## Beginner Section
 1. Band Name Generator : 
     This program creates a band name for you based on user input to certain questions.
     What I learned - Variables, Variable Naming, and Input/Output
@@ -46,7 +46,9 @@ This is the repositories of projects made during my journey of 100 Days of Pytho
     This program creates a simple calculator that performs addition, multiplication, subtraction and divison
     What I leaned - Functions with Outputs
 
-11. Blackjack : (Neet to complete) :
+11. Blackjack : 
+    This program allows user to play games of Blackjack with Computer
+    What I leaned - How to build a program from scratch
 
 
 12. Number Guessing : 
@@ -56,6 +58,11 @@ This is the repositories of projects made during my journey of 100 Days of Pytho
 13. Higher Lower Game : 
     This is a simple program of Higher lower game where you need to guess if A or B has the highest follower
     What I leaned - How to build a program from scratch
+
+## Intermediate Section
+1. Coffee Machine Project 
+    
+2. Coffee Machine Project - with OOPS
 
 Happy coding!
 

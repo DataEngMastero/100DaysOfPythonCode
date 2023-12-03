@@ -71,4 +71,5 @@ def play_game():
     print(calculate_winner(user_score,computer_score))
 
 while input("Do you want to play a game of blackjack ? Type 'y' for yes, 'n' for no  ? ") == "y":
+    clear()
     play_game()
